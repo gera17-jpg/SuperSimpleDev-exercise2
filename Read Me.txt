@@ -1,0 +1,5 @@
+Create a variable called 'name' and save your name in this variable.
+
+At a restaurant you ordered 1 coffee ($5),2 bagels ($3.2 each) and 1 soup ($9.50).Calculate the cost with a 10% tax and save it to the variable 'cost'
+
+Display 'Hi ${name} the total is ${cost}.
